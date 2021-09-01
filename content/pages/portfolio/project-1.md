@@ -2,7 +2,7 @@
 title: Bitcoin
 subtitle: Digital Gold
 date: '2019-05-10'
-thumb_image: /images/imageedit_151_8134430529-eabef486.png
+thumb_image: /images/Warning-Card (2).png
 thumb_image_alt: 'White, black, and red shoe sole'
 image: /images/imageedit_151_8134430529.png
 image_alt: 'White, black, and red shoe sole'
