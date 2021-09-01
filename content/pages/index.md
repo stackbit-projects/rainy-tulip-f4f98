@@ -11,7 +11,7 @@ sections:
       Tech news, updates on Defi, and features about alternative
       cryptocurrencies.
     actions:
-      - label: Let's talk
+      - label: find out more
         url: /contact
         style: button
   - section_id: latest-projects
