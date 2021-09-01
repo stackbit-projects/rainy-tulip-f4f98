@@ -2,7 +2,7 @@
 title: Blockchains
 subtitle: Optional Project Subtitle
 date: '2019-04-08'
-thumb_image: /images/IMG_6717.GIF
+thumb_image: /images/24.png
 thumb_image_alt: A yellow retro telephone on a yellow background
 image: images/3.jpg
 image_alt: A yellow retro telephone on a yellow background
